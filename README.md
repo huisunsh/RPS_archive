@@ -35,7 +35,7 @@ More specifically, in the scenario of a RPS game, a pure best response strategy 
 
 Here, we loose the constraint of pure strategies and implement the best response rule in a probabilistic manner.
 
-Parameters:š
+Parameters:Å¡
 
 1. $a_1 = P(stay|win)$
 2. $a_2 = P(left-shift|lose)$
